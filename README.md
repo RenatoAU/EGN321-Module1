@@ -20,9 +20,9 @@ EGN321-Module1/
 ```
 
 ## Module 1 Status
-- [ ] Manual workbook inspection complete
-- [ ] `DEFECTS.md` complete
-- [ ] Original artifact preserved
+- [x] Manual workbook inspection complete
+- [x] `DEFECTS.md` complete
+- [x] Original artifact preserved
 - [ ] Python rebuild started
 - [ ] Tests added
-- [ ] AI use documented where applicable
+- [x] AI use documented where applicable
