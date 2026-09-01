@@ -1,8 +1,8 @@
 # EGN 321 — Module 1 Repository
 
 ## Student
-- **Name:**
-- **Student ID:**
+- **Name:**Renato Jacinto
+- **Student ID:**RJ05348
 
 ## Project
 Module 1 — The Inherited Workbook
