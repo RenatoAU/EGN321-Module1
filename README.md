@@ -23,6 +23,6 @@ EGN321-Module1/
 - [x] Manual workbook inspection complete
 - [x] `DEFECTS.md` complete
 - [x] Original artifact preserved
-- [ ] Python rebuild started
-- [ ] Tests added
+- [x] Python rebuild started
+- [x] Tests added
 - [x] AI use documented where applicable
