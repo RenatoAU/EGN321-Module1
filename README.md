@@ -26,3 +26,28 @@ EGN321-Module1/
 - [x] Python rebuild started
 - [x] Tests added
 - [x] AI use documented where applicable
+
+## Commits
+git add README.md DEFECTS.md AI_LOG.md requirements.txt
+git commit -m "Document workbook evidence and project scope"
+
+git add src/tank_fill.py
+git commit -m "Implement named-constant tank volume functions"
+
+git add tests/test_tank_fill.py
+git commit -m "Add workbook reference and regression tests"
+
+python -m pip install -r requirements.txt
+pytest
+
+git add README.md DEFECTS.md AI_LOG.md
+git commit -m "Document verification assumptions and limitations"
+
+## Test Verification
+
+The project includes two known-correct workbook cases, regression tests for the incorrect total formula and the R-108 unit problem, and invalid-input tests for zero, negative, and unit-containing values.
+
+All tests passed successfully:
+
+```text
+7 passed
