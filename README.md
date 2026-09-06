@@ -42,3 +42,12 @@ pytest
 
 git add README.md DEFECTS.md AI_LOG.md
 git commit -m "Document verification assumptions and limitations"
+
+## Test Verification
+
+The project includes two known-correct workbook cases, regression tests for the incorrect total formula and the R-108 unit problem, and invalid-input tests for zero, negative, and unit-containing values.
+
+All tests passed successfully:
+
+```text
+7 passed
